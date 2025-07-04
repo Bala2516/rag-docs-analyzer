@@ -1,3 +1,1 @@
-#rag-docs-analyzer
-
 
